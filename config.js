@@ -61,8 +61,8 @@ global.owner = [
   ['6285716583868', 'cipengx', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
-  // [number, dia creator/owner?, dia developer?]
+  [ '6285716583868' , 'cipengx' , benar ] //Ganti jd nomormu sama Namamu
+  // [nomor, dia pencipta/pemilik?, dia pengembang?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
